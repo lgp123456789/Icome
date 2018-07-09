@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Icome
 
 You can use the [editor on GitHub](https://github.com/lgp123456789/Icome/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
